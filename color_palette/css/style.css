@@ -4,12 +4,6 @@
     width: 400px;
     box-shadow:  5px 5px 20px rgba(0,0,0,0.5);
 }
-/* .ColorPalette {
-    background-color: #fa7bdc;
-    font-size: 20px;
-    width: 400px;
-    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.5);
-} */
 
 .ColorPalette__color {
     color: #ffffff;
