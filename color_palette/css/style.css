@@ -1,0 +1,40 @@
+.ColorPalette {
+    background-color: #fa7bdc;
+    font-size: 20px ;
+    width: 400px;
+    box-shadow:  5px 5px 20px rgba(0,0,0,0.5);
+}
+/* .ColorPalette {
+    background-color: #fa7bdc;
+    font-size: 20px;
+    width: 400px;
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.5);
+} */
+
+.ColorPalette__color {
+    color: #ffffff;
+    font-family: "微軟正黑體";
+    font-weight: 800;
+    font-size: 18px;
+
+    text-align: center;
+    line-height: 2;
+
+    margin: 0;
+}
+.color1 {
+    background-color: #50e498;
+}
+.color2 {
+    background-color: #559ae4;
+}
+.color3 {
+    background-color: #9253d5;
+}
+.color4 {
+    background-color: #d84e91;
+}
+.color5 {
+    background-color: #d79b64;
+    height: 300px;
+}
