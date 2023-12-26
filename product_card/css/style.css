@@ -1,6 +1,5 @@
 *{
     box-sizing: border-box;
-    /* border: 1px solid #000; */
 }
 a{
     text-decoration: none;
@@ -75,9 +74,7 @@ html, body{
     padding-bottom:20px;
 }
 .info .name {
-    /* font-size: 30px; */
     line-height: 24px;
-    /* font-weight: bold; */
 }
 .info .name h1{
     color: #363636e2;
@@ -85,12 +82,10 @@ html, body{
 }
 
 .info .launch {
-    /* font-size: 30px; */
-    /* font-weight: bold; */
+
     border-top: 3px solid #ACC0D8;
     border-bottom: 3px solid #ACC0D8;
     line-height: 250%;
-
 }
 .launch span{
     color: #5450da;
@@ -101,7 +96,5 @@ html, body{
     display: inline-block;
     position: absolute;
     color: #444;
-    bottom: 10px; /* Adjust the value as needed */
-    /* z-index: 10; *
-/
+    bottom: 10px; 
 }
